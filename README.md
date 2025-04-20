@@ -2,6 +2,18 @@ copyright 2025 - the future
 this is a full description of the lang: C@
 this is a lang that plans to make it easier for new devs/coders to get a basic understanding of programming/coding and for devs just to try out and give me suggestions on what i should add/change
 --------------------
+DISCLAIMER: i do not condone any actions taken as a result of using C@, so please use it for useful (or useless if ur weird) and fun porograms instead of illegal ones
+-------------------
+what you can do:
+modify the code for your PERSONAL use
+use the lang for your projects or Commercials
+make vids and talk about it online 
+---------------------
+what you CANT do:
+share modified versions of it
+claim ownership for C@
+use it for illegal activities
+-----------------------
 1- how to use:
 run ./CAtrunner
 write the code
